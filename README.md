@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer_Analysis__
 ## Purpose
 The purpose of this project is to summarize ride-sharing data by different city types: urban, suburban and rural. Additionally, multiple-line graph is created to show the total weekly fares for each city type and business recommendation is given for addressing any disparities among the city types.
 ## Results
